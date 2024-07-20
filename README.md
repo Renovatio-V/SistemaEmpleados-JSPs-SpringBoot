@@ -74,3 +74,7 @@ Para la parte visual del sistema se utilizó **Bootstrap**.
         <artifactId>lombok</artifactId>
     </dependency>
 </dependencies>
+```
+## Vista
+![image](https://github.com/user-attachments/assets/c529cb49-fb7d-4d63-b816-7e400130d18f)
+
